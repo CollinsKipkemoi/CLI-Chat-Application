@@ -19,7 +19,7 @@ A simple command-line chat application built with Python using sockets and threa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CLI-Chat-Application.git
+git clone https://github.com/CollinsKipkemoi/CLI-Chat-Application.git
 cd CLI-Chat-Application
 ```
 
@@ -74,7 +74,3 @@ python client.py
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
